@@ -1,12 +1,12 @@
-let score = "Ankush";
+// let score = "Ankush";
 
-console.log(typeof score);
-console.log(typeof(score));
+// console.log(typeof score);
+// console.log(typeof(score));
 
-let scorevalueinNumaber = Number(score)
-console.log(typeof scorevalueinNumaber);
+// let scorevalueinNumaber = Number(score)
+// console.log(typeof scorevalueinNumaber);
 
-console.log(scorevalueinNumaber);
+// console.log(scorevalueinNumaber);
  
 
 // NOTE:-
@@ -16,6 +16,8 @@ console.log(scorevalueinNumaber);
 // or jab undefined type karte to value (NaN) Aati hai.
 
 
-let LoggedIn = "Ankush"
+let LoggedIn =0
 
-let 
+let booleanisLoggedin = Boolean(LoggedIn)
+console.log(booleanisLoggedin);
+
